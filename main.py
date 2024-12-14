@@ -31,7 +31,7 @@ def gameplay():
         print("\nNumber of attempts left = ", attempts)
         continue
       elif u_color == m_color:
-        print("YOU WON :)\n")
+        print("YOU WON ☺\n")
         wins += 1
         break
       else:
