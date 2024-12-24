@@ -51,7 +51,7 @@ def gameplay():
      new_choice = int(input("Enter your choice : "))
 
      if new_choice == 1:
-      print("\n" + "Name : Krisha"
+      print("\n" + "Name :" name , 
                    "\nGames won = ", game_win,
             "\nGames lost = ", game_lost)
       exit(0)
